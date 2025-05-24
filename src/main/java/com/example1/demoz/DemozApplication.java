@@ -8,6 +8,7 @@ public class DemozApplication {
 
 	public static void main(String[] args) {
 		int c=88;
+		int o=0;
 		SpringApplication.run(DemozApplication.class, args);
 	}
 
