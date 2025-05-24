@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemozApplication {
 
 	public static void main(String[] args) {
-		int x=99;
+		String name="sam";
 		SpringApplication.run(DemozApplication.class, args);
 	}
 
